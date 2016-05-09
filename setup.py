@@ -43,7 +43,7 @@ setup(
     platforms = ["Linux", "Mac OS-X", "Unix"],
     package_data={'slidedeck': ['data/base.html', 'data/slides.md',
                     'data/js/*.js', 'data/js/*/*.js', 'data/theme/*/*',
-                    'data/figures/*']},
+                    'data/figures/*', 'data/uzh_logo_d_pos.png']},
     zip_safe=False,
     install_requires=['jinja2', 'markdown', 'watchdog'],
 )

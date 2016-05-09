@@ -30,6 +30,7 @@ DECK_SETTINGS_RE = {
     'author': u'^%\s*author:(.*)$',
     'contact': u'^%\s*contact:(.*)$',
     'favicon': u'^%\s*favicon:(.*)$',
+    'gdbar': u'^%\s*gdbar:(.*)$'
 
 }
 

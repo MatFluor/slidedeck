@@ -7,6 +7,7 @@
 % contact: <span>www</span> <a href="http://www.google.edu/">website</a>
 % contact: <span>github</span> <a href="http://github.com">username</a>
 % favicon: http://www.stanford.edu/favicon.ico
+% gdbar: uzh_logo_d_pos.png
 
 ---
 title: Intro slide
@@ -60,4 +61,3 @@ function detectFormFactor() {
   return device;
 }
 </pre>
-
